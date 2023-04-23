@@ -7,7 +7,7 @@ How to Use
     Enter the text you want the cow to say
     Choose the character you want the cow to be
     
-Here are the fun characters you can choose from:
+Here are the characters you can choose from:
 
     beavis
     cheese
