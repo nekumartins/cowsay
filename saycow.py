@@ -22,7 +22,7 @@ chars = {
     'tux': cowsay.tux
     }
 print("Hello, User")
-ans = input("To see available lists of charactes input 'y', to skip hit any key")
+ans = input("To see available lists of charactes input 'y', to skip hit any key: ")
 if ans.lower() == 'y':
     for _ in chars:
         print (_)
